@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lisstas", "Lisstas\Lisstas.csproj", "{738565FC-B690-4F6B-9B92-22F44E5A6C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{738565FC-B690-4F6B-9B92-22F44E5A6C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738565FC-B690-4F6B-9B92-22F44E5A6C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738565FC-B690-4F6B-9B92-22F44E5A6C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738565FC-B690-4F6B-9B92-22F44E5A6C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808CA2B2-20F6-42F0-BBEE-5FF4468F81EC}
+	EndGlobalSection
+EndGlobal
